@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Upload</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    //- <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+</head>
+<body>
+    <form action="/fileupload" method="post" enctype="multipart/form-data">
+        <label>csv given by maam: </label><input type="file" name="csv"><br>
+        <label>names of the students: </label><input type="file" name="names"><br>
+        <label>metadata: </label><input type="file" name="meta"><br>
+        <input type="submit">
+    </form>
+</body>
+</html>
