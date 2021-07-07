@@ -1,16 +1,26 @@
 {
-  "name": "attendance_generator",
-  "version": "1.0.0",
-  "description": "",
+  "name": "glitch-mvp-node",
+  "version": "0.0.1",
+  "description": "This is a project for generating attendance on MS teams",
   "main": "server.js",
   "scripts": {
-    "start": "npm server.js"
+    "start": "node server.js"
   },
-  "author": "Vedant Jumle",
-  "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
     "multer": "^1.4.2",
     "pug": "^3.0.2"
-  }
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/glitch-mvp-node"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
 }
