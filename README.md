@@ -7,11 +7,11 @@
 1) Select the CSV file for the first input
 2) Select a text file containing names of the students in the second box.
 3) Select a text file that includes the information about the starting hour of the lecture, ending hour of the lecture and the amount of time students are allowed outside the meeting, it should look like this:
-  ```
-  13:00
-  15:00
-  10
-  ```
-  Here 13:00 (or 1 PM) is the starting hour, 15:00 (or 3 PM) is the ending hour, and students will be marked absent if the total time inside the meeting is less that 1 hr, 50 mins.<br>
+    ```
+    13:00
+    15:00
+    10
+    ```
+    Here 13:00 (or 1 PM) is the starting hour, 15:00 (or 3 PM) is the ending hour, and students will be marked absent if the total time inside the meeting is less that 1 hr, 50    mins.<br>
 4) Submit the form, and it will generate an attendance sheet within seconds
  
