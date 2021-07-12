@@ -12,6 +12,6 @@
   15:00
   10
   ```
-  Here 13:00 (or 1 PM) is the starting hour, 15:00 (or 3 PM) is the ending hour, and students will be marked absent if the total time inside the meeting is less that 1 hr, 50 mins.
+  Here 13:00 (or 1 PM) is the starting hour, 15:00 (or 3 PM) is the ending hour, and students will be marked absent if the total time inside the meeting is less that 1 hr, 50 mins.<br>
 4) Submit the form, and it will generate an attendance sheet within seconds
  
