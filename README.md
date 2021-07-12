@@ -1,7 +1,7 @@
 # attendance_generator_website
 
 ### Rita Sharma (PCE teacher) told the students to make attendance. Got super annoyed and made this to help every teacher automatically generate attendance from the CSVs made by MS teams.
-### Hosted at => (website)[https://vedant-attendance-gen.glitch.me/]
+### Hosted at => (https://vedant-attendance-gen.glitch.me/)[website]
 
 ## Usage:
 1) Select the CSV file for the first input
